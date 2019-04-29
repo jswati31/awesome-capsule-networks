@@ -42,9 +42,9 @@ Your feedback and contributions are always welcome!
 ## Papers
 
 ### Papers by Hinton et al.
-- [Matrix capsules with EM routing](https://openreview.net/forum?id=HJWLfGWRb) - Hinton, G. E., Sabour, S. and Frosst, N. (2018)
-- [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829) - Sabour, S., Frosst, N. and Hinton, G.E. (2017)
-- [Transforming Auto-encoders](http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf) - Hinton, G. E., Krizhevsky, A. and Wang, S. D. (2011)
+-[x] [Matrix capsules with EM routing](https://openreview.net/forum?id=HJWLfGWRb) - Hinton, G. E., Sabour, S. and Frosst, N. (2018)
+-[x] [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829) - Sabour, S., Frosst, N. and Hinton, G.E. (2017)
+-[x] [Transforming Auto-encoders](http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf) - Hinton, G. E., Krizhevsky, A. and Wang, S. D. (2011)
 - [A parallel computation that assigns canonical object-based frames of reference.](http://www.cs.toronto.edu/~fritz/absps/object-based81.pdf) - Hinton, G.E. (1981)
 - [Shape representation in parallel systems](http://www.cs.toronto.edu/~fritz/absps/shape81.pdf) - Hinton, G.E. (1981)
 - [Optimizing Neural Networks that Generate Images](http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf) - Tijmen Tieleman's disseration
